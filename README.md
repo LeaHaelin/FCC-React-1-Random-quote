@@ -4,7 +4,7 @@
 
 ### Description
 
-![Design preview for the Random Quote Machine ](./fcc-react-random-quote/src/images/preview-desktop.png)
+![Design preview for the Random Quote Machine](./src/images/preview-desktop.png)
 
 This project is a react app project from [FreeCodeCamp](https://www.freecodecamp.org/learn)'s Course [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/). The Random Quote Machine application is showing a new random quote when user clicks 'new quote' button.
 
